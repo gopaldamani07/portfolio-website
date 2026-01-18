@@ -17,7 +17,7 @@ const projects = [
       "A responsive and modern personal portfolio website designed to showcase projects, skills, and experience with smooth UI interactions.",
     image: "/projects/project2.png",
     tags: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
-    githubUrl: "https://github.com/nikhilpandey0120/portfolio_website_project",
+    githubUrl: "https://github.com/gopaldamani07/portfolio-website.git",
   },
   {
   id: 3,
