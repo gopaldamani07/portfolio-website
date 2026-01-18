@@ -15,15 +15,10 @@ export const AboutSection = () => {
               Passionate Web Developer & Tech Creator
             </h3>
 
-            <p className="text-muted-foreground">
-I am a Computer Science engineering student with a strong interest in full-stack development. I   have hands-on experience working with front-end and back-end technologies through academic and  personal projects. I am focused on building real-world applications and preparing for a career in the software industry.
-            </p>
+            <p className="text-muted-foreground">I’m a Computer Science engineering student and aspiring full-stack developer focused on building scalable, real-world web applications. I have hands-on experience with both frontend and backend technologies through academic and personal projects, where I’ve applied strong problem-solving and system-thinking skills.</p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+             I take a practical, results-driven approach to development—writing clean code, learning fast, and continuously improving my technical depth to deliver reliable and efficient solutions in real-world environments.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -33,7 +28,7 @@ I am a Computer Science engineering student with a strong interest in full-stack
               </a>
 
               <a
-                href="/projects/Nikhil_Resume.pdf"
+                href="/projects/resume.pdf"
                 download
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >

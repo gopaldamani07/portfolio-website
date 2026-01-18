@@ -59,7 +59,7 @@ export const ContactSection = () => {
                     href="mailto:hello@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    20nkpandey@gmail.com
+                    gopaldammani07@gmail.com
                   </a>
                 </div>
               </div>
@@ -93,13 +93,13 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Contact Us</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="https://www.linkedin.com/in/nikhil-pandey20" target="_blank">
+                <a href="https://www.linkedin.com/in/gopaldamani07" target="_blank">
                   <Linkedin />
                 </a>
-                <a href="https://x.com/NikhilP90427032" target="_blank">
+                <a href="https://x.com/gopaldamani07?t=Zbex6SCX5Xv2LQyN6idTng&s=08" target="_blank">
                   <Twitter />
                 </a>
-                <a href="https://www.instagram.com/nikhil.pandey.01/" target="_blank">
+                <a href="https://www.instagram.com/gopal.dammani?igsh=N3k4MzZpamplaXJm" target="_blank">
                   <Instagram />
                 </a>
                 <a href="#" target="_blank">
@@ -130,7 +130,7 @@ export const ContactSection = () => {
                   name="name"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                  placeholder="Nikhil Pandey"
+                  placeholder="Gopal Damani"
                 />
               </div>
 
@@ -148,7 +148,7 @@ export const ContactSection = () => {
                   name="email"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                  placeholder="nikhil@gmail.com"
+                  placeholder="gopal@gmail.com"
                 />
               </div>
 

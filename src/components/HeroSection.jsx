@@ -12,16 +12,16 @@ export const HeroSection = () => {
             <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
               {" "}
-              Nikhil
+              Gopal 
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
               {" "}
-              Pandey
+              Damani
             </span>
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-I am a Computer Science engineering student with strong problem-solving skills in C++ and Data Structures. I build practical and efficient applications while continuously exploring web technologies and AI.
+I am a Computer Science engineering student with strong problem-solving skills in java and Data Structures. I build practical and efficient applications while continuously exploring web technologies and AI.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">

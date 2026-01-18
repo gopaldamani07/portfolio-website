@@ -1,24 +1,43 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
-  {
+   {
     id: 1,
-    title: "Task Manager",
+    title: "Task Manager Application",
     description:
-      "A simple and clean full-stack task manager with separate frontend and backend, built using JavaScript, HTML, and CSS.",
+      "A full-stack task management application that allows users to create, update, and track tasks efficiently, with a clean UI and structured backend architecture.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Node.js"],
-    githubUrl: "https://github.com/nikhilpandey0120/Todo_application",
+    tags: ["React", "Tailwind CSS", "Node.js", "JavaScript"],
+    githubUrl: "https://github.com/gopaldamani07/Task-Manager.git",
   },
-  {
+   {
     id: 2,
     title: "Portfolio Website",
     description:
-      "A responsive personal portfolio website showcasing front-end development skills with HTML, CSS, and JavaScript.",
+      "A responsive and modern personal portfolio website designed to showcase projects, skills, and experience with smooth UI interactions.",
     image: "/projects/project2.png",
-    tags: ["JavaScript", "React", "TailwindCSS"],
+    tags: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
     githubUrl: "https://github.com/nikhilpandey0120/portfolio_website_project",
   },
+  {
+  id: 3,
+  title: "WebRTC Video Communication App",
+  description:
+    "A real-time browser-based video and audio communication application using WebRTC with peer-to-peer connectivity and low latency.",
+  image: "/projects/project3.png",
+  tags: ["WebRTC", "JavaScript", "TypeScript", "HTML", "CSS", "Node.js"],
+  githubUrl: "https://github.com/gopaldamani07/WebRTC-Project.git",
+},
+ {
+  id: 4,
+  title: "Employee Management System",
+  description:
+    "A full-stack employee management system that enables efficient handling of employee records with CRUD operations, a structured backend, and a clean, responsive user interface.",
+  image: "/projects/project4.png",
+  tags: ["React", "Node.js", "Express", "MongoDB", "JavaScript", "Tailwind CSS"],
+  githubUrl: "https://github.com/gopaldamani07/Employee-Management.git",
+}
+
 ];
 
 export const ProjectsSection = () => {
@@ -98,7 +117,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/nikhilpandey0120"
+            href="https://github.com/gopaldamani07"
           >
             Check My Github <ArrowRight size={16} />
           </a>
